@@ -1,9 +1,7 @@
 # Shadowverse-Sandbag-Script
 This is a shadowverse sandbagging script that automates joining a game and instantly leaving.
 
-Step 1: Open up Shadowverse and navigate to the Select Deck Page
-
-![image of the Deck Select Page](ShadowVerse%20Sandbag/src/images/Deck_select.PNG)
+Step 1: Open up Shadowverse and navigate to the Select Deck Page (MULTI > Play ranked matches > Rotation/Unlimited)
 
 Step 2: Run the Java Program
 
